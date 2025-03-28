@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0EA5E9"/>
+  <g transform="translate(300, 165)">
+    <rect width="600" height="600" rx="150" fill="white"/>
+    <path d="M300 150C263.307 150 212 201.307 212 278C212 354.693 263.307 406 300 406C376.693 406 428 354.693 428 278C428 201.307 376.693 150 300 150ZM300 374C241.019 374 204 336.981 204 278C204 219.019 241.019 182 300 182C358.981 182 396 219.019 396 278C396 336.981 358.981 374 300 374Z" fill="#0EA5E9"/>
+    <path d="M300 214C264.654 214 236 242.654 236 278C236 313.346 264.654 342 300 342C335.346 342 364 313.346 364 278C364 242.654 335.346 214 300 214ZM300 310C282.327 310 268 295.673 268 278C268 260.327 282.327 246 300 246C317.673 246 332 260.327 332 278C332 295.673 317.673 310 300 310Z" fill="#0EA5E9"/>
+  </g>
+  <text x="600" y="550" text-anchor="middle" fill="white" font-family="Arial" font-size="48" font-weight="bold">MC Bach</text>
+  <text x="600" y="600" text-anchor="middle" fill="white" font-family="Arial" font-size="24">音樂社群平台</text>
+</svg> 

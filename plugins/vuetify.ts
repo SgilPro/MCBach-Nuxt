@@ -9,7 +9,19 @@ export default defineNuxtPlugin((app) => {
     components,
     directives,
     theme: {
-      defaultTheme: "light",
+      defaultTheme: "dark",
+      themes: {
+        dark: {
+          colors: {
+            primary: "#d10a5c", // Tailwind primary-500
+            secondary: "#b6d99d", // Tailwind secondary-500
+            background: "#111111", // Tailwind neutral-900
+            surface: "#111111", // Tailwind neutral-900
+            onPrimary: "#ffffff", // 按鈕文字
+            onBackground: "#ffffff", // Tailwind neutral-100
+          },
+        },
+      },
     },
   });
 
